@@ -83,14 +83,3 @@ https://www.reddit.com/r/{subreddit}.json
 ```
 
 > Extracted fields: title, preview image, votes, comment totals, permalink, and author.
-
-## 🎨 Styling
-- Global CSS with **Funnel Display** typeface
-- Header & search bar styling
-- Horizontally scrolling subreddit picker
-- Responsive tweaks for smaller screens
-
-## Future Work
-- [ ] Implement **PostList** component to render fetched posts with metadata & links
-- [ ] Display **loading & error states** in the UI
-- [ ] Add **post filtering** via global searchTerm
